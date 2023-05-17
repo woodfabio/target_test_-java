@@ -1,3 +1,5 @@
+Respoitório criado para o processo selectivo da Target.
+
 # TARGET TEST - Respostas
 
 1) 78
